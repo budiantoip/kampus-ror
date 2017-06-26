@@ -1,0 +1,26 @@
+@import "materialize";
+@import "https://fonts.googleapis.com/icon?family=Material+Icons";
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+img{
+    margin: 0 auto;
+    display: block;
+}
+
+.slider h3,
+.slider h5{
+    color:lightskyblue !important;
+}
+
+.top5{
+    margin-top: 5%;
+}
